@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lord Chess</string>
+    <string name="title_activity_main">Lord Chess</string>
+    <string name="package_name">com.lordchess.app</string>
+    <string name="custom_url_scheme">com.lordchess.app</string>
+</resources>
